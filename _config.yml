@@ -28,7 +28,7 @@ twitter_username: intere
 github_username:  intere
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
